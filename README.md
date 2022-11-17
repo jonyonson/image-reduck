@@ -6,5 +6,5 @@
 2. `npm install`
 3. `node index.js [width] [quality]`
 
-`width` argument defaults to 300px and quality defaults to `50`
+`width` and `quality` arguments are optional. `width` defaults to 300px and `quality` defaults to `50`
 
