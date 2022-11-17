@@ -1,0 +1,16 @@
+{
+  "name": "image-reduck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "pretty-bytes": "^6.0.0",
+    "sharp": "^0.31.2"
+  }
+}
